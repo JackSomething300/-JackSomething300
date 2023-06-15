@@ -1,12 +1,6 @@
 <!-- Your Name's Portfolio -->
 
-<h1 align="center">Your Name's Portfolio</h1>
-
-<p align="center">
-    <img src="images/download.png" alt="Your Name" width="200" style="width: 214px;
-    height: 208px;
-    border-radius: 104px;">
-</p>
+<h1 align="center">Martin Meyer</h1>
 
 <p align="center">
     A collection of my projects and skills
