@@ -8,18 +8,24 @@
 
 ## About Me
 
-I'm Martin Meyer, a Senior web developer specializing in the .Net framework, Azure and
-                    JavaScript
-                    frameworks. I am a "Digital Transformation Agent" taking businesses into the digital age.
-                    Experienced Web Developer with a demonstrated history of working in the marketing and advertising
-                    industry.
-                    Skilled in SQL, JavaScript, Microsoft Azure, ASP.NET, and C#.
-                    Strong engineering professional with a Bachelor's Degree of Computing focused in Software
-                    Engineering from
-                    Belgium Campus.
+I've spent nearly a decade building large and complex classified web projects. My experience goes beyond just coding and fixing bugs. As the senior leader for three projects, I've honed my skills in understanding business needs and clarifying expectations. This approach allows me to offer solutions that are truly effective, not just quick fixes.
+
+I collaborate closely with designers and mobile developers, ensuring we deliver complete products from the drawing board to the final launch.
+
+I've contributed to several key projects, such as:
+
+AutoMart
+Truck and Trailer
+AgriMag
+My background is in web development, with a strong history in the marketing and advertising sectors. I'm proficient in SQL, JavaScript, Microsoft Azure, ASP.NET, and C#, backed by a Bachelor's Degree in Computing with a focus on Software Engineering from Belgium Campus.
+
+Outside of work, I enjoy staying active, exploring nature, and expanding my knowledge. Writing about new technologies and demystifying them for others is a passion of mine, time permitting. I also dedicate time to personal projects that test new technologies. This helps me stay informed and anticipate potential challenges in my professional projects.
+
+I'm particularly fond of the Microsoft ecosystem, utilizing Azure for hosting web projects, storage blobs, and functions, which simplifies deployment. My preferred development setup combines .NET Core with JavaScript frameworks for an efficient front-end development process.
+
 ### **Work Experience**
 
-**January [2015] - Present Senior Developer & Team Lead at [Dot Slash]**
+**September [2015] - Present Senior Developer & Team Lead at [Dot Slash]**
 
 For almost the past 9 years, I have worked on mostly 3 big classifieds projects at Dot Slash. I have worked on a variety of projects over this time however these 3 became my main responsibility.
 
@@ -66,22 +72,6 @@ For almost the past 9 years, I have worked on mostly 3 big classifieds projects 
     - **Jenkins & IIS VM Deployment & Azure App Service deployments**
     - **Xunit Testing**.
     - **SQL**.
-  
-## About Me 
-I've spent nearly a decade building large and complex classified web projects. My experience goes beyond just coding and fixing bugs. As the senior leader for three projects, I've honed my skills in understanding business needs and clarifying expectations. This approach allows me to offer solutions that are truly effective, not just quick fixes.
-
-I collaborate closely with designers and mobile developers, ensuring we deliver complete products from the drawing board to the final launch.
-
-I've contributed to several key projects, such as:
-
-AutoMart
-Truck and Trailer
-AgriMag
-My background is in web development, with a strong history in the marketing and advertising sectors. I'm proficient in SQL, JavaScript, Microsoft Azure, ASP.NET, and C#, backed by a Bachelor's Degree in Computing with a focus on Software Engineering from Belgium Campus.
-
-Outside of work, I enjoy staying active, exploring nature, and expanding my knowledge. Writing about new technologies and demystifying them for others is a passion of mine, time permitting. I also dedicate time to personal projects that test new technologies. This helps me stay informed and anticipate potential challenges in my professional projects.
-
-I'm particularly fond of the Microsoft ecosystem, utilizing Azure for hosting web projects, storage blobs, and functions, which simplifies deployment. My preferred development setup combines .NET Core with JavaScript frameworks for an efficient front-end development process.
 
 ## Contact Me
 Email: jackolboy300@gmail.com
